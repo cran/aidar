@@ -1,4 +1,2 @@
 library(testthat)
-library(aidar)
-
-test_package("aidar")
+test_check("aidar")
